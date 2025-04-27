@@ -33,7 +33,7 @@
 
 /* accepted extensions to 'mode' in 'fopen' */
 #if !defined(L_MODEEXT)
-#define L_MODEEXT	"b"
+#define L_MODEEXT	"bt"
 #endif
 
 /* Check whether 'mode' matches '[rwa]%+?[L_MODEEXT]*' */
